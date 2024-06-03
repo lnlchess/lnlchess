@@ -27,4 +27,4 @@
 ##
 
 
-![Snake animation](https://github.com/seulnlchess/seulnlchess/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lnlchess/lnlchess/blob/output/github-contribution-grid-snake.svg)
